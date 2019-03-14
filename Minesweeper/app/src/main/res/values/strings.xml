@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="loss_toast">Sorry you lost</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="win_toast">Congratualations you won</string>
+    <string name="easy_btn">Easy</string>
+    <string name="medium_btn">Medium</string>
+    <string name="hard_btn">Hard</string>
+    <string name="flag_mode">Flag mode</string>
+</resources>
